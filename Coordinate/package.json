@@ -1,0 +1,17 @@
+{
+  "name": "Independent",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.40",
+    "google-maps-react": "^1.1.2",
+    "meteor-node-stubs": "^0.3.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-geocode": "0.0.1",
+    "reactdom": "^2.0.0",
+    "request": "^2.83.0"
+  }
+}
